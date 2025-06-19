@@ -1,0 +1,3 @@
+[Thu Jun 19 10:40:08 IST 2025] Starting backup of ./Documents
+[Thu Jun 19 10:40:08 IST 2025] Backup successfull: backup_2025-06-19_10-40-08.tar.gz
+[Thu Jun 19 10:40:09 IST 2025 Backup completed.
